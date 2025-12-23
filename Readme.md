@@ -135,12 +135,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shauryacious&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-<!-- GitHub Trophies Section -->
-## 🏆 GitHub Trophies:
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shauryacious&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="trophy" width="98%" />
-</div>
-
 <!-- Snake Game Animation (GitHub Contribution Graph) -->
 <div align="center">
   <img align= "center" src ="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
@@ -161,7 +155,7 @@
 <!-- Profile Views Counter -->
 ### 👁️‍🗨️ Profile Views
 <div align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/shauryacious/shauryacious&count_bg=%230E75B6&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitors&edge_flat=false" alt="Profile Views" />
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/shauryacious&count_bg=%230E75B6&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitors&edge_flat=false" alt="Profile Views" />
 </div>
 
 <!-- Footer Wave Animation -->
