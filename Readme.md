@@ -138,7 +138,7 @@
 <!-- GitHub Trophies Section -->
 ## 🏆 GitHub Trophies:
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shauryacious&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=shauryacious&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="trophy" width="98%" />
 </div>
 
 <!-- Snake Game Animation (GitHub Contribution Graph) -->
@@ -147,7 +147,7 @@
 </div>
 
 <!-- Random Dev Quote Section -->
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </div>
@@ -158,7 +158,7 @@
   <img src="https://github-contributor-stats.vercel.app/api?username=shauryacious&limit=5&theme=dark&combine_all_yearly_contributions=true" />
 </div>
 
-<!-- Profile Views Counter (Random starting number >= 1000) -->
+<!-- Profile Views Counter -->
 ### 👁️‍🗨️ Profile Views
 <div align="center">
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/shauryacious/shauryacious&count_bg=%230E75B6&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitors&edge_flat=false" alt="Profile Views" />
