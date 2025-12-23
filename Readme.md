@@ -17,11 +17,11 @@
 
 <!-- Achievements Section -->
 ## 🏅 Achievements:
-<div align="center">
-
-**Rank Opener @ NITr CSE'27** | **JPMorgan Chase & Co (Code For Good '25)** | **5× Hackathon Winner** | **National Level Chess Player (State Rank 18)** | **Top 130 Amazon HackOn'25**
-
-</div>
+- **Rank Opener @ NITr CSE'27**
+- **JPMorgan Chase & Co (Code For Good '25)**
+- **5× Hackathon Winner**
+- **National Level Chess Player (State Rank 18)**
+- **Top 130 Amazon HackOn'25**
 
 <!-- Education Section -->
 ## 🧑‍🎓 Education: 
@@ -63,7 +63,7 @@
   <a href = "https://www.codechef.com/users/cant_breath">CodeChef</a> - <strong>4★ (1852)</strong>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href = "https://www.geeksforgeeks.org/profile/shauryacious?tab=activity">GeeksforGeeks</a>
+  <a href = "https://www.geeksforgeeks.org/profile/shauryacious?tab=activity">GeeksforGeeks</a> - <strong>5★ (2003)</strong>
 </p>
 </div>
 
