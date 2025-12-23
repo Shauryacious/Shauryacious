@@ -15,10 +15,19 @@
 - **🗣️ Ask me about:** My journey, aspirations, goals, and definitely about projects and improvements
 - **🛣️ How to reach me:** <a href="https://www.linkedin.com/in/shauryacious/">LinkedIn</a>
 
+<!-- Achievements and Rankings Section -->
+## 🏅 Achievements & Rankings:
+<div align="center">
+
+**Rank Opener @ NITr CSE'27** | **JPMorgan Chase & Co (Code For Good '25)** | **Expert (1705) @CF** | **4★ (1852) @CC** | **Knight ♞ (2017) @LC** | **5× Hackathon Winner** | **National Level Chess Player (State Rank 18)** | **Top 130 Amazon HackOn'25**
+
+</div>
+
 <!-- Education Section -->
 ## 🧑‍🎓 Education: 
 **Bachelor of Technology** – *Computer Science & Engineering*  
-**National Institute of Technology Raipur** | **2027**
+**National Institute of Technology Raipur** | **2027**  
+**CPI: 9.5**
 
 <!-- Social Media Links Section -->
 ## 🌐 Socials:
@@ -118,10 +127,10 @@
   <img src="https://github-contributor-stats.vercel.app/api?username=shauryacious&limit=5&theme=dark&combine_all_yearly_contributions=true" />
 </div>
 
-<!-- Profile Views Counter -->
+<!-- Profile Views Counter (Random starting number >= 1000) -->
 ### 👁️‍🗨️ Profile Views
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=shauryacious&label=Visitors&color=0e75b6&style=flat-square" alt="Profile Views" />
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/shauryacious/shauryacious&count_bg=%230E75B6&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitors&edge_flat=false" alt="Profile Views" />
 </div>
 
 <!-- Footer Wave Animation -->
