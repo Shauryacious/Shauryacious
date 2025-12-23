@@ -11,12 +11,12 @@
 </p>
 
 <!-- Quick Info Section -->
-- **📔 I'm currently learning:** React.js, Backend Development, and Competitive Programming
-- **🗣️ Ask me about:** My journey, aspirations, goals, and definitely about projects and improvements
+- **📔 I'm currently learning:** Full Stack Development, AI/ML, Quantitative Finance and Competitive Programming
 - **🛣️ How to reach me:** <a href="https://www.linkedin.com/in/shauryacious/">LinkedIn</a>
 
 <!-- Achievements Section -->
 ## 🏅 Achievements:
+- **Upcoming Summer Intern at D. E. Shaw**
 - **Rank Opener @ NITr CSE'27**
 - **JPMorgan Chase & Co (Code For Good '25)**
 - **5× Hackathon Winner**
@@ -51,7 +51,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.codechef.com/images/cc-logo.svg" height="40" width="125" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/Shauryacious/Shauryacious/main/resume/public/assets/gfg.svg" height="40" width="125" alt="GeeksforGeeks" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" height="40" width="125" alt="GeeksforGeeks" />
 </p>
 <p align ="center">
   <a href = "https://leetcode.com/u/shauryacious/">LeetCode</a> - <strong>Knight ♞ (2017)</strong>
