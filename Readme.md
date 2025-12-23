@@ -42,7 +42,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.codechef.com/images/cc-logo.svg" height="40" width="125" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20220824182119/GeeksforGeeks.svg" height="40" width="125" />
+  <img src="https://raw.githubusercontent.com/Shauryacious/Shauryacious/main/resume/public/assets/gfg.svg" height="40" width="125" alt="GeeksforGeeks" />
 </p>
 <p align ="center">
   <a href = "https://leetcode.com/u/shauryacious/">LeetCode</a>
@@ -54,7 +54,7 @@
   <a href = "https://www.codechef.com/users/cant_breath">CodeChef</a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href = "https://www.geeksforgeeks.org/user/shauryacious/">GeeksforGeeks</a>
+  <a href = "https://www.geeksforgeeks.org/profile/shauryacious?tab=activity">GeeksforGeeks</a>
 </p>
 </div>
 
