@@ -155,7 +155,7 @@
 <!-- Profile Views Counter -->
 ### 👁️‍🗨️ Profile Views
 <div align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/shauryacious&count_bg=%230E75B6&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitors&edge_flat=false" alt="Profile Views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=shauryacious.shauryacious&"  />
 </div>
 
 <!-- Footer Wave Animation -->
