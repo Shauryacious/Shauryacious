@@ -45,13 +45,13 @@
 ## 🖥️ Coding Platforms:
 <div>
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/LeetCode_Logo_2.png" height="40" width="125" />
+  <a href="https://leetcode.com/u/shauryacious/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/LeetCode_Logo_2.png" height="40" width="125" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://codeforces.org/s/22481/images/codeforces-sponsored-by-ton.png" height="40" width="125" />
+  <a href="https://codeforces.com/profile/shauryacious"><img src="https://codeforces.org/s/22481/images/codeforces-sponsored-by-ton.png" height="40" width="125" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.codechef.com/images/cc-logo.svg" height="40" width="125" />
+  <a href="https://www.codechef.com/users/cant_breath"><img src="https://cdn.codechef.com/images/cc-logo.svg" height="40" width="125" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" height="40" width="125" alt="GeeksforGeeks" />
+  <a href="https://www.geeksforgeeks.org/profile/shauryacious?tab=activity"><img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" height="40" width="125" alt="GeeksforGeeks" /></a>
 </p>
 <p align ="center">
   <a href = "https://leetcode.com/u/shauryacious/">LeetCode</a> - <strong>Knight ♞ (2017)</strong>
